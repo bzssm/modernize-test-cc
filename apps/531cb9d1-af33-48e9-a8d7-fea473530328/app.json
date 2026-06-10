@@ -1,0 +1,10 @@
+{
+  "name": "copilot-api",
+  "language": "javascript",
+  "created_at": "2026-06-10T07:35:39.3247472Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/copilot-api"
+  }
+}
