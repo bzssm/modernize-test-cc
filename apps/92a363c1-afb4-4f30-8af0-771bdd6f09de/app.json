@@ -1,0 +1,11 @@
+{
+  "name": "e2e-tests",
+  "language": "javascript",
+  "created_at": "2026-06-10T07:35:39.3247592Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/showmyjvm",
+    "path": "e2e-tests"
+  }
+}
