@@ -8,13 +8,16 @@
   "base_commit": "fbf4322cc61aad0912514d84125452d75eed0473",
   "apps": {
     "531cb9d1-af33-48e9-a8d7-fea473530328": {
-      "status": "pending"
+      "status": "running",
+      "pull_request": "https://github.com/bzssm/copilot-api/pull/8",
+      "session_url": "https://github.com/bzssm/copilot-api/pull/8/agent-sessions/2aa24599-f75f-4f7b-b536-4327591316f0",
+      "job_id": "19721478-1130351179-d7986065-f659-4592-8cf6-242cd3c9bf0a"
     },
     "77df5d0d-10b5-47fc-a224-d800a63956c8": {
-      "status": "pending"
+      "status": "running"
     },
     "92a363c1-afb4-4f30-8af0-771bdd6f09de": {
-      "status": "pending"
+      "status": "running"
     }
   }
 }
