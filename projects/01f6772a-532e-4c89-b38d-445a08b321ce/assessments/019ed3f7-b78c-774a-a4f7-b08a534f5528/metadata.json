@@ -18,7 +18,8 @@
       "job_id": "19721478-1256878539-c9501464-d344-4ad6-8af7-6caf30fa2cc2"
     },
     "92a363c1-afb4-4f30-8af0-771bdd6f09de": {
-      "status": "running"
+      "status": "running",
+      "job_id": "19721478-1256878539-c9501464-d344-4ad6-8af7-6caf30fa2cc2"
     }
   }
 }
