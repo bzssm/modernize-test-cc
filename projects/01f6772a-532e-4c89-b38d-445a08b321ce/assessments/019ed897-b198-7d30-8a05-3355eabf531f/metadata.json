@@ -1,26 +1,27 @@
 {
   "name": "Assessment Jun 18, 2026 10:37 AM",
   "execution_mode": "cca",
-  "status": "running",
+  "status": "completed",
   "target": "openjdk25",
   "domain": "upgrade,cloud-readiness",
   "created_at": "2026-06-18T02:38:00.9731796Z",
+  "completed_at": "2026-06-18T02:46:06.8034016Z",
   "base_commit": "2ecdef6f667583dce779ba859ebdb60846d84e3a",
   "apps": {
     "531cb9d1-af33-48e9-a8d7-fea473530328": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/copilot-api/pull/12",
       "session_url": "https://github.com/bzssm/copilot-api/pull/12/agent-sessions/673080d9-ca29-4b91-81c0-a7e4488409d4",
       "job_id": "19721478-1130351179-fa9b9cd8-f810-42d3-82db-b52c88f44a23"
     },
     "77df5d0d-10b5-47fc-a224-d800a63956c8": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/showmyjvm/pull/42",
       "session_url": "https://github.com/bzssm/showmyjvm/pull/42/agent-sessions/f7d16290-d405-49b3-a575-5ad19a09ab82",
       "job_id": "19721478-1256878539-48d7b35c-ed88-4443-aa1c-ca7d870d0b79"
     },
     "92a363c1-afb4-4f30-8af0-771bdd6f09de": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/showmyjvm/pull/43",
       "session_url": "https://github.com/bzssm/showmyjvm/pull/43/agent-sessions/0eea2804-65fc-456e-a0c6-9d29bc4f78a9",
       "job_id": "19721478-1256878539-ade3262b-9175-4c90-a197-312adffaf581"
