@@ -14,7 +14,10 @@
       "job_id": "19721478-1130351179-43f8ba63-1eb5-426a-86be-0fe7deff2d72"
     },
     "77df5d0d-10b5-47fc-a224-d800a63956c8": {
-      "status": "running"
+      "status": "running",
+      "pull_request": "https://github.com/bzssm/showmyjvm/pull/48",
+      "session_url": "https://github.com/bzssm/showmyjvm/pull/48/agent-sessions/4177b0c5-820b-4c48-b567-615dc7fe2ea3",
+      "job_id": "19721478-1256878539-db987b34-17db-423a-aaf2-6e8363214209"
     },
     "92a363c1-afb4-4f30-8af0-771bdd6f09de": {
       "status": "running"
