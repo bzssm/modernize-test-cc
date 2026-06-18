@@ -1,20 +1,22 @@
 {
   "name": "Assessment Jun 18, 2026 01:23 PM",
   "execution_mode": "local",
-  "status": "running",
+  "status": "failed",
   "target": "openjdk25",
   "domain": "upgrade,cloud-readiness",
   "created_at": "2026-06-18T05:23:23.1939237Z",
+  "completed_at": "2026-06-18T05:27:20.4393374Z",
   "base_commit": "c30dd8d4c051eacb7449f83f8fca70d5bb9f6a7c",
   "apps": {
     "531cb9d1-af33-48e9-a8d7-fea473530328": {
-      "status": "pending"
+      "status": "completed"
     },
     "77df5d0d-10b5-47fc-a224-d800a63956c8": {
-      "status": "pending"
+      "status": "completed"
     },
     "92a363c1-afb4-4f30-8af0-771bdd6f09de": {
-      "status": "pending"
+      "status": "failed",
+      "error": "Pipeline produced no artifacts for this app."
     }
   }
 }
