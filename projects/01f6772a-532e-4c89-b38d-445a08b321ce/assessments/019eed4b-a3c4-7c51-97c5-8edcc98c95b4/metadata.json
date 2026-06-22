@@ -32,7 +32,10 @@
       "job_id": "19721478-1273101759-ff9c7791-a25d-4f83-b722-a315504b18a1"
     },
     "afcaba5b-0a11-4b1a-ac49-819934cd34e1": {
-      "status": "running"
+      "status": "running",
+      "pull_request": "https://github.com/bzssm/ghcpapdw/pull/2",
+      "session_url": "https://github.com/bzssm/ghcpapdw/pull/2/agent-sessions/d137fba6-6a50-455c-881f-76ea92f4b835",
+      "job_id": "19721478-1273101759-3254b56a-fe8b-43a5-9415-eca602dff936"
     }
   }
 }
