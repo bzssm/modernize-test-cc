@@ -1,0 +1,13 @@
+{
+  "name": "showmyjvm",
+  "language": "java",
+  "component_root": "showmyjvm",
+  "display_name": "showmyjvm",
+  "created_at": "2026-06-24T06:07:21.9405070Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/monotestmatrix",
+    "path": "showmyjvm"
+  }
+}
