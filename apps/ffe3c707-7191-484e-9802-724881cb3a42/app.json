@@ -1,0 +1,13 @@
+{
+  "name": "baget",
+  "language": "dotnet",
+  "component_root": "baget",
+  "display_name": "baget",
+  "created_at": "2026-06-24T06:07:14.8840204Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/monotestmatrix",
+    "path": "baget"
+  }
+}
