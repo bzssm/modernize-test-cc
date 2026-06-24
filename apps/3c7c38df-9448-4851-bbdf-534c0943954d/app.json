@@ -1,0 +1,13 @@
+{
+  "name": "tests",
+  "language": "javascript",
+  "component_root": "ghcpapdw/deepdir1/deepdir2/deepdir3/tests",
+  "display_name": "tests",
+  "created_at": "2026-06-24T06:07:14.8840244Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/monotestmatrix",
+    "path": "ghcpapdw/deepdir1/deepdir2/deepdir3/tests"
+  }
+}
