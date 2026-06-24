@@ -1,0 +1,13 @@
+{
+  "name": "ZavaAccountManager",
+  "language": "dotnet",
+  "component_root": "ghcpapdw/ZavaAccountManager",
+  "display_name": "ZavaAccountManager",
+  "created_at": "2026-06-24T06:07:14.8840057Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/monotestmatrix",
+    "path": "ghcpapdw/ZavaAccountManager"
+  }
+}
