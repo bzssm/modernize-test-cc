@@ -32,7 +32,10 @@
       "job_id": "19721478-1278623087-12d30761-22f1-43d3-ba4a-865d3e9e7603"
     },
     "ef3737b2-bd55-4d9b-a0ee-8bb70d746ea9": {
-      "status": "running"
+      "status": "running",
+      "pull_request": "https://github.com/bzssm/monotestmatrix/pull/21",
+      "session_url": "https://github.com/bzssm/monotestmatrix/pull/21/agent-sessions/a98a523b-1df3-4385-8210-6d2b395f0a47",
+      "job_id": "19721478-1278623087-798fcc10-511e-4273-85df-07c3c5e5b48e"
     },
     "f1063453-9c3f-48cb-b83a-cefb9d467be6": {
       "status": "running"
