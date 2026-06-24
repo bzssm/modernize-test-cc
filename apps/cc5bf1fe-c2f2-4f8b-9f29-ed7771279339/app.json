@@ -1,0 +1,13 @@
+{
+  "name": "ruoyi-ui",
+  "language": "javascript",
+  "component_root": "RuoYi-Cloud",
+  "display_name": "RuoYi-Cloud.ruoyi-ui",
+  "created_at": "2026-06-24T06:07:14.8840126Z",
+  "source": {
+    "provider": "github",
+    "host": "github.com",
+    "repo": "bzssm/monotestmatrix",
+    "path": "RuoYi-Cloud/ruoyi-ui"
+  }
+}
