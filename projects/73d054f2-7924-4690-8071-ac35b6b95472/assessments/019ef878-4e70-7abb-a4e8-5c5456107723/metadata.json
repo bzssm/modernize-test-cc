@@ -1,0 +1,35 @@
+{
+  "name": "Assessment Jun 24, 2026 03:11 PM",
+  "execution_mode": "local",
+  "status": "running",
+  "target": "openjdk25",
+  "domain": "upgrade,cloud-readiness",
+  "created_at": "2026-06-24T07:11:34.6508574Z",
+  "base_commit": "d4eb1648783c84637d9ea53e7ef17084be8b299a",
+  "apps": {
+    "3c7c38df-9448-4851-bbdf-534c0943954d": {
+      "status": "pending"
+    },
+    "4b7309cb-210d-48fb-aba7-60fcbee7b244": {
+      "status": "pending"
+    },
+    "96ce1204-6698-4d89-bf33-68082c5f4b2c": {
+      "status": "pending"
+    },
+    "c0f0e0c6-dcb6-474d-9e00-4e18af4123fc": {
+      "status": "pending"
+    },
+    "cc5bf1fe-c2f2-4f8b-9f29-ed7771279339": {
+      "status": "pending"
+    },
+    "ce80b305-fde7-47cb-aee3-eb9517bb293b": {
+      "status": "pending"
+    },
+    "f9b3a444-00ca-4bb3-a810-a8c37ac8698d": {
+      "status": "pending"
+    },
+    "ffe3c707-7191-484e-9802-724881cb3a42": {
+      "status": "pending"
+    }
+  }
+}
