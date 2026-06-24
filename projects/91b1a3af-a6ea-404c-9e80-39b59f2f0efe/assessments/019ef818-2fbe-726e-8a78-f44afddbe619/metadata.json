@@ -8,28 +8,31 @@
   "base_commit": "431f4a6b842d6ae11ea01d3970c7431a3e9b1003",
   "apps": {
     "20b640fb-3a94-40b8-b87c-dc4fc6ff84f3": {
-      "status": "pending"
+      "status": "running",
+      "pull_request": "https://github.com/bzssm/monotestmatrix/pull/26",
+      "session_url": "https://github.com/bzssm/monotestmatrix/pull/26/agent-sessions/4892ea71-ffc3-4247-abb0-d3a4ea995e09",
+      "job_id": "19721478-1278623087-7fb81d8d-37f6-422c-97c4-a520eacd9557"
     },
     "3ed5b66e-b80c-4914-948d-8559b631a168": {
-      "status": "pending"
+      "status": "running"
     },
     "6e4f9f9e-2812-48a5-b862-19e0146310d8": {
-      "status": "pending"
+      "status": "running"
     },
     "6fa65908-38fc-4985-8fdc-62431c93c3a6": {
-      "status": "pending"
+      "status": "running"
     },
     "a2c832dd-96cc-43d0-9c61-044ec87d35f5": {
-      "status": "pending"
+      "status": "running"
     },
     "b37a0ac4-497c-4467-9cb8-6b4a5acf1a77": {
-      "status": "pending"
+      "status": "running"
     },
     "dc1352d6-a795-47ff-9dfd-c4828d956c63": {
-      "status": "pending"
+      "status": "running"
     },
     "e954acea-e632-43ed-90e5-0e8c90357447": {
-      "status": "pending"
+      "status": "running"
     }
   }
 }
