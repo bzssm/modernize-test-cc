@@ -1,50 +1,51 @@
 {
   "name": "Assessment Jun 24, 2026 01:08 PM",
   "execution_mode": "cca",
-  "status": "running",
+  "status": "completed",
   "target": "openjdk25",
   "domain": "upgrade,cloud-readiness",
   "created_at": "2026-06-24T05:09:03.8949843Z",
+  "completed_at": "2026-06-24T05:16:12.1454303Z",
   "base_commit": "dea9c70f71d34c247cf3ffbc0654b0359ddf19de",
   "apps": {
     "05363832-6546-4b42-b495-163c8eda537c": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/24",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/24/agent-sessions/58cae3b4-4a96-41ce-b40b-7fccb8331837",
       "job_id": "19721478-1278623087-753d4a04-7cb1-4cad-addb-35478abdfc1c"
     },
     "1fa7c304-1eef-4212-8ea2-243a17e11af0": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/20",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/20/agent-sessions/ae05f8e7-9b55-4fef-a2e1-f0027f4a4d5e",
       "job_id": "19721478-1278623087-0dc54c4f-5ae3-444d-ac59-5e5cf455bf46"
     },
     "4428fc55-2f48-4d4f-a153-88381c35483f": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/19",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/19/agent-sessions/e94b0624-7088-416b-bdd1-af511c55fd64",
       "job_id": "19721478-1278623087-6690b46b-bfa3-4953-9604-79ffd90d0ba6"
     },
     "4fcfd05f-eee4-4941-b764-ba50bdad567e": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/18",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/18/agent-sessions/4a4d1f5b-1277-4b16-9ec0-e402938b9eaf",
       "job_id": "19721478-1278623087-12d30761-22f1-43d3-ba4a-865d3e9e7603"
     },
     "ef3737b2-bd55-4d9b-a0ee-8bb70d746ea9": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/21",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/21/agent-sessions/a98a523b-1df3-4385-8210-6d2b395f0a47",
       "job_id": "19721478-1278623087-798fcc10-511e-4273-85df-07c3c5e5b48e"
     },
     "f1063453-9c3f-48cb-b83a-cefb9d467be6": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/17",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/17/agent-sessions/6e2c0e2a-3a2f-4970-a793-d42fa60a4c41",
       "job_id": "19721478-1278623087-8ec62045-3399-4e3c-a4ed-f646c300566b"
     },
     "fd083d08-41a4-44b5-9060-1d5a1f55e030": {
-      "status": "running",
+      "status": "completed",
       "pull_request": "https://github.com/bzssm/monotestmatrix/pull/22",
       "session_url": "https://github.com/bzssm/monotestmatrix/pull/22/agent-sessions/c96c0cd3-4146-4288-a3b8-fadaf2e17531",
       "job_id": "19721478-1278623087-3af7047f-98e4-495d-86b8-ad333e3db32b"
